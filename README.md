@@ -8,4 +8,7 @@ Welcome!
 
 You can go all the wway to 6 headings
 
-I am trying this using PyCharm in preperation for my Python project
+I am trying this using PyCharm in preparation 
+for my Python project
+
+Not sure about this set of additional files
